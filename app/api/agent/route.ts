@@ -32,8 +32,12 @@ async function recordCallbackLead(name: string, phone: string, inquiry: string) 
     };
 
     messages.unshift(newLead);
-    await fs.mkdir(path.dirname(messagesFilePath), { recursive: true });
-    await fs.writeFile(messagesFilePath, JSON.stringify(messages, null, 2), "utf-8");
+    try {
+      await fs.mkdir(path.dirname(messagesFilePath), { recursive: true });
+      await fs.writeFile(messagesFilePath, JSON.stringify(messages, null, 2), "utf-8");
+    } catch (fsErr) {
+      console.warn("[Vercel Notice] Local lead filesystem write skipped:", fsErr);
+    }
 
     // Attempt email alert
     try {
