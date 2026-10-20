@@ -82,10 +82,14 @@ export async function POST(request: Request) {
       source: source || "contact_form",
     };
 
-    // Save message locally
-    const existingMessages = await readMessages();
-    const updatedMessages = [newMessage, ...existingMessages];
-    await writeMessages(updatedMessages);
+    // Save message locally (wrapped for Vercel serverless read-only filesystem resilience)
+    try {
+      const existingMessages = await readMessages();
+      const updatedMessages = [newMessage, ...existingMessages];
+      await writeMessages(updatedMessages);
+    } catch (fsErr) {
+      console.warn("[Vercel Notice] Local filesystem write skipped:", fsErr);
+    }
 
     // Attempt to send email via SMTP if credentials exist
     let emailSent = false;
