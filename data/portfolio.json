@@ -1,0 +1,307 @@
+{
+  "profile": {
+    "name": "Kamesh M R",
+    "role": "Artificial Intelligence Developer",
+    "eyebrow": "ARTIFICIAL INTELLIGENCE & APPLICATION DEVELOPER",
+    "title": "BUILDING INTELLIGENT AI AGENTS & SCALABLE WEB PLATFORMS",
+    "subtitle": "I'm Kamesh M R — an Artificial Intelligence Developer experienced in building AI-agent-powered features and machine-learning workflows (Scikit-Learn, Pandas, NumPy), combined with production full-stack delivery experience as the solo builder of GoJobSync.com.",
+    "photo": "/kamesh-profile.jpg",
+    "resumePdf": "/kamesh-resume.pdf",
+    "phone": "+91 63824 86456",
+    "email": "mrkamesh8@gmail.com",
+    "location": "Chennai / Bangalore, India",
+    "github": "https://github.com/KAMESH1206",
+    "linkedin": "https://linkedin.com/in/kamesh-m-r-95101840a",
+    "flagshipProject": "www.gojobsync.com",
+    "currentCompany": "Thejobsync, Chennai"
+  },
+  "metrics": [
+    {
+      "value": "GoJobSync",
+      "suffix": ".com",
+      "label": "Solo Built Full-Stack Platform",
+      "tip": "Click to view GoJobSync Work Details"
+    },
+    {
+      "value": "MCA",
+      "suffix": "(SRM)",
+      "label": "SRM Institute (2024 — 2026)",
+      "tip": "Master of Computer Application (AI Specialization)"
+    },
+    {
+      "value": "100",
+      "suffix": "%",
+      "label": "Full Stack & Production Delivery",
+      "tip": "Full Stack, DB modeling, Cloud Deploy & AI"
+    },
+    {
+      "value": "03",
+      "suffix": "+",
+      "label": "Languages (Tamil, English, Telugu)",
+      "tip": "Tamil (Native), English (Fluent), Telugu (Spoken)"
+    }
+  ],
+  "mainProjects": [
+    {
+      "id": "gojobsync",
+      "number": "01",
+      "name": "GoJobSync — Recurring Recruitment Platform",
+      "category": "Full-Stack SaaS · Campus CRM · AI Automation",
+      "badge": "Flagship Production Platform",
+      "description": "Independently designed, built and deployed www.gojobsync.com — a recurring end-to-end recruitment/job-sync platform. Owned the full stack from system architecture to AWS cloud deployment with an internal CRM for campus placement drives.",
+      "tags": ["React.js", "Next.js 15", "TypeScript", "Prisma ORM", "Supabase", "AWS SNS", "LangChain", "OpenAI API"],
+      "type": "fullstack",
+      "image": "",
+      "href": "http://localhost:3001",
+      "github": "https://github.com/KAMESH1206",
+      "liveLinkText": "Live Platform",
+      "highlights": [
+        "Built solo from initial architecture to AWS production deployment",
+        "Modeled database schema with Prisma ORM & integrated Supabase",
+        "Integrated AWS SNS for automated recurring notifications",
+        "Built internal CRM for campus recruitment drives & candidate pipelines",
+        "AI agents & prompt engineering (LangChain, OpenAI API) for rapid feature automation"
+      ]
+    },
+    {
+      "id": "smart-voterai",
+      "number": "02",
+      "name": "Smart-VoterAI Verification System",
+      "category": "Identity Verification · Computer Vision · TypeScript",
+      "badge": "GitHub Featured Repo",
+      "description": "A secure digital voting concept engineered with TypeScript. Features biometric identity verification, Aadhaar OCR text extraction simulation, JWT authentication, and role-based access control to prevent fraudulent duplicate voting.",
+      "tags": ["TypeScript", "Next.js", "Computer Vision", "OCR Pipeline", "JWT Auth", "MySQL"],
+      "type": "ai",
+      "image": "",
+      "href": "https://github.com/KAMESH1206/smart-voterai",
+      "github": "https://github.com/KAMESH1206/smart-voterai",
+      "liveLinkText": "GitHub Repo",
+      "highlights": [
+        "Biometric facial match verification & Aadhaar OCR parsing pipeline",
+        "JWT-authenticated voting ballot submission with audit trace",
+        "Admin dashboard with live result tracking & zero duplicate voter checks"
+      ]
+    },
+    {
+      "id": "gym-crm",
+      "number": "03",
+      "name": "Gym-CRM Operations & Member Platform",
+      "category": "Enterprise CRM · Membership Workflows · TypeScript",
+      "badge": "GitHub Featured Repo",
+      "description": "A full-featured fitness and gym management CRM platform built with TypeScript. Implements member lifecycle management, recurring subscription tracking, trainer assignment workflows, and operational analytics.",
+      "tags": ["TypeScript", "Next.js", "Prisma ORM", "CRM Workflows", "Tailwind CSS", "REST API"],
+      "type": "crm",
+      "image": "",
+      "href": "https://github.com/KAMESH1206/gym-crm",
+      "github": "https://github.com/KAMESH1206/gym-crm",
+      "liveLinkText": "GitHub Repo",
+      "highlights": [
+        "Member lifecycle tracking with automated renewal reminders",
+        "Interactive membership analytics dashboard and trainer scheduling",
+        "Clean TypeScript architecture with responsive data tables"
+      ]
+    }
+  ],
+  "githubRepos": [
+    {
+      "name": "portfolio",
+      "url": "https://github.com/KAMESH1206/portfolio",
+      "language": "HTML",
+      "langClass": "lang-html",
+      "description": "Modern personal developer portfolio website showcasing full-stack and AI project deliveries.",
+      "updated": "Updated Oct 2026"
+    },
+    {
+      "name": "smart-voterai",
+      "url": "https://github.com/KAMESH1206/smart-voterai",
+      "language": "TypeScript",
+      "langClass": "lang-ts",
+      "description": "Secure digital voting and biometric identity verification platform with OCR extraction.",
+      "updated": "Updated Feb 2026"
+    },
+    {
+      "name": "gym-crm",
+      "url": "https://github.com/KAMESH1206/gym-crm",
+      "language": "TypeScript",
+      "langClass": "lang-ts",
+      "description": "Full-stack fitness center management CRM for member tracking, plans, and attendance.",
+      "updated": "Updated Feb 2026"
+    },
+    {
+      "name": "charu",
+      "url": "https://github.com/KAMESH1206/charu",
+      "language": "TypeScript",
+      "langClass": "lang-ts",
+      "description": "Modern interactive web application engineered with TypeScript and component-driven architecture.",
+      "updated": "Updated Feb 2026"
+    },
+    {
+      "name": "lokeshvalentines",
+      "url": "https://github.com/KAMESH1206/lokeshvalentines",
+      "language": "TypeScript",
+      "langClass": "lang-ts",
+      "description": "Custom celebratory interactive experience built with fluid TypeScript animations and micro-interactions.",
+      "updated": "Updated Feb 2026"
+    },
+    {
+      "name": "News Reader Application",
+      "url": "https://github.com/KAMESH1206",
+      "language": "Java / Android",
+      "langClass": "lang-py",
+      "description": "Android news aggregator featuring category filtering, offline bookmarking, lazy loading, and image caching.",
+      "updated": "Personal Project"
+    },
+    {
+      "name": "Github_demo_repo",
+      "url": "https://github.com/KAMESH1206/Github_demo_repo",
+      "language": "Git Sandbox",
+      "langClass": "lang-html",
+      "description": "Learning to use GitHub, branching workflows, and commit management.",
+      "updated": "Updated Sep 2025"
+    }
+  ],
+  "skillsData": [
+    {
+      "category": "AI & Machine Learning",
+      "iconName": "BrainCircuit",
+      "skills": [
+        { "name": "Python", "level": "Primary", "tip": "ML models, data pipelines & automation" },
+        { "name": "Scikit-Learn", "level": "ML Models", "tip": "Classification & regression algorithms" },
+        { "name": "Pandas & NumPy", "level": "Data Workflows", "tip": "Data cleaning & matrix transformations" },
+        { "name": "Prompt Engineering", "level": "Advanced", "tip": "Structured LLM prompts & zero-shot logic" }
+      ]
+    },
+    {
+      "category": "AI Agents & LLM",
+      "iconName": "Bot",
+      "skills": [
+        { "name": "LangChain", "level": "Pipelines", "tip": "Agent tool calling & chained prompts" },
+        { "name": "OpenAI API", "level": "Production", "tip": "Embedding & text completions" },
+        { "name": "AI Agent Workflows", "level": "Automation", "tip": "Autonomous feature prototyping" },
+        { "name": "Task Automation", "level": "Workflows", "tip": "Developer productivity scripts" }
+      ]
+    },
+    {
+      "category": "Web & Full-Stack",
+      "iconName": "Code2",
+      "skills": [
+        { "name": "React.js & Next.js", "level": "Production", "tip": "SSR, App Router & modern hooks" },
+        { "name": "TypeScript", "level": "Strict Typed", "tip": "Type safety from DB to UI" },
+        { "name": "Prisma ORM & Supabase", "level": "Database", "tip": "PostgreSQL, schema migrations & auth" },
+        { "name": "REST APIs", "level": "Architecture", "tip": "High-throughput endpoints & auth" }
+      ]
+    },
+    {
+      "category": "Cloud & Dev Tools",
+      "iconName": "Server",
+      "skills": [
+        { "name": "AWS (SNS, EC2)", "level": "Cloud", "tip": "Automated recurring notifications & hosting" },
+        { "name": "Git & GitHub", "level": "Daily Flow", "tip": "Branching, PRs & version control" },
+        { "name": "Postman", "level": "API Testing", "tip": "Endpoint validation & mock servers" },
+        { "name": "VS Code", "level": "Primary IDE", "tip": "Extensive developer workflow" }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Application Developer",
+      "company": "Thejobsync",
+      "location": "Chennai, India",
+      "period": "Jul 2026 — Present",
+      "description": "Independently designed, built and deployed www.gojobsync.com, a recurring end-to-end recruitment/job-sync platform, owning the project full stack from architecture to production deployment.",
+      "bullets": [
+        "Built frontend with React.js, Next.js and TypeScript, delivering a fast, type-safe and fully responsive UI.",
+        "Modeled database schema with Prisma ORM and integrated Supabase for data storage, authentication and real-time API connections.",
+        "Implemented recurring notification workflows using AWS SNS for automated alerts and updates.",
+        "Designed and built an internal CRM to manage campus recruitment drives, candidate pipelines and placement coordination.",
+        "Deployed and maintained the platform on AWS, ensuring scalability and reliability.",
+        "Applied AI agents and prompt engineering (LangChain, OpenAI API) to accelerate feature development and automate workflows."
+      ],
+      "tags": ["React.js", "Next.js", "TypeScript", "Prisma ORM", "Supabase", "AWS SNS", "LangChain", "OpenAI API"]
+    },
+    {
+      "role": "Frontend Developer Intern",
+      "company": "Willo Web Studio",
+      "location": "Chennai, India",
+      "period": "Nov 2025 — Feb 2026",
+      "description": "Engineered responsive modern web applications using React.js and Next.js. Focused on reusable component architecture and seamless REST API integrations.",
+      "bullets": [
+        "Developed high-performance client web applications using React.js and Next.js.",
+        "Built clean, modular UI components ensuring fluid cross-device responsiveness.",
+        "Integrated backend REST APIs for smooth asynchronous data fetching and state sync."
+      ],
+      "tags": ["React.js", "Next.js", "REST APIs", "JavaScript", "Responsive UI"]
+    },
+    {
+      "role": "Website Development Intern",
+      "company": "Object Automation System Solution",
+      "location": "Chennai, India",
+      "period": "Aug 2023",
+      "description": "Built responsive client business websites using WordPress CMS with custom themes, plugins, and performance optimizations.",
+      "bullets": [
+        "Designed and deployed custom WordPress business websites.",
+        "Integrated customized graphic design assets and fine-tuned site speed & SEO metrics."
+      ],
+      "tags": ["WordPress", "PHP", "HTML5", "CSS3", "Site Optimization"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Application (MCA)",
+      "institution": "SRM Institute of Science and Technology",
+      "period": "2024 — 2026",
+      "focus": "Specialization in Artificial Intelligence & Advanced Software Systems"
+    },
+    {
+      "degree": "Bachelor of Computer Application (BCA)",
+      "institution": "Patrician College of Art and Science",
+      "period": "2021 — 2024",
+      "focus": "Computer Applications, Database Systems & Core Software Engineering"
+    }
+  ],
+  "recognitions": {
+    "certifications": [
+      "Build Your Own Static Website — HTML, CSS, Bootstrap",
+      "Website Development using WordPress",
+      "Hackathon Participation Certificate",
+      "3rd Place — JEPPIAAR COMBUST Science Project Expo (2019)"
+    ],
+    "languages": [
+      { "name": "Tamil", "level": "Native" },
+      { "name": "English", "level": "Fluent Working Proficiency" },
+      { "name": "Telugu", "level": "Spoken" }
+    ]
+  },
+  "extraDetails": [
+    {
+      "id": "fullstack-delivery",
+      "title": "Solo Full-Stack Product Delivery",
+      "category": "Core Strengths",
+      "badge": "Production Experience",
+      "description": "Independently designed, architected, built and deployed GoJobSync.com end-to-end. Experienced with relational database schema design, Prisma ORM, Supabase Auth, AWS SNS messaging, and scalable Next.js 15 frontends.",
+      "image": "",
+      "link": "http://localhost:3001",
+      "linkText": "Explore Flagship App"
+    },
+    {
+      "id": "ai-workflows",
+      "title": "Agentic AI & Prompt Engineering",
+      "category": "AI Development",
+      "badge": "AI & Automation",
+      "description": "Practical hands-on integration of LangChain, OpenAI API, and automated AI agents to accelerate feature development, parse complex data schemas, and automate recurring developer and user tasks.",
+      "image": "",
+      "link": "https://github.com/KAMESH1206",
+      "linkText": "View AI Repos"
+    },
+    {
+      "id": "hackathon-awards",
+      "title": "Hackathons & Innovation Honors",
+      "category": "Recognitions",
+      "badge": "Award Winning",
+      "description": "Awarded 3rd Place at JEPPIAAR COMBUST Science Project Expo (2019) and active participant in state-level hackathons and technical symposiums across Tamil Nadu.",
+      "image": "",
+      "link": "",
+      "linkText": ""
+    }
+  ]
+}

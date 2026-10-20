@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ai-lead-1792485709863",
+    "name": "Urgent Caller",
+    "email": "Captured via AI Agent",
+    "phone": "Urgent callback request for phone number: +91 98765 43210 regarding AI Developer role",
+    "projectType": "Urgent Call-Back Request",
+    "message": "[AI Agent Alert - Missed Call / Urgent Inquiry]: Urgent callback request for phone number: +91 98765 43210 regarding AI Developer role",
+    "timestamp": "2026-10-20T08:41:49.863Z",
+    "status": "unread",
+    "source": "ai_agent"
+  },
+  {
+    "id": "msg-1792485673150",
+    "name": "Sundar Pichai (Google)",
+    "email": "sundar@google.com",
+    "projectType": "AI Agent / ML Project",
+    "message": "Hi Kamesh, this is a live test from your portfolio contact form. Your email alert system is working perfectly!",
+    "phone": "+1 650 253 0000",
+    "timestamp": "2026-10-20T08:41:13.150Z",
+    "status": "unread",
+    "source": "contact_form"
+  },
+  {
+    "id": "msg-1792485277252",
+    "name": "mukesh",
+    "email": "mrkamesh6@gmail.com",
+    "projectType": "Full-Time Role",
+    "message": "vjcjvk",
+    "phone": "6383123242",
+    "timestamp": "2026-10-20T08:34:37.252Z",
+    "status": "unread",
+    "source": "contact_form"
+  },
+  {
+    "id": "msg-1792485036456",
+    "name": "mukesh",
+    "email": "mrkamesh6@gmail.com",
+    "projectType": "Full-Time Role",
+    "message": "sssds",
+    "phone": "6383123242",
+    "timestamp": "2026-10-20T08:30:36.456Z",
+    "status": "unread",
+    "source": "contact_form"
+  },
+  {
+    "id": "msg-1792483816507",
+    "name": "mukesh",
+    "email": "mrkamesh6@gmail.com",
+    "projectType": "Full-Time Role",
+    "message": "cxnjzxxhbzsccmzcsjc",
+    "phone": "6383123242",
+    "timestamp": "2026-10-20T08:10:16.507Z",
+    "status": "unread",
+    "source": "contact_form"
+  },
+  {
+    "id": "msg-1792483813236",
+    "name": "mukesh",
+    "email": "mrkamesh6@gmail.com",
+    "projectType": "Full-Time Role",
+    "message": "cxnjzxxhbzsccmzcsjc",
+    "phone": "6383123242",
+    "timestamp": "2026-10-20T08:10:13.236Z",
+    "status": "unread",
+    "source": "contact_form"
+  },
+  {
+    "id": "ai-lead-1792482702258",
+    "name": "Urgent Caller",
+    "email": "Captured via AI Agent",
+    "phone": " 9876543210",
+    "projectType": "Urgent Call-Back Request",
+    "message": "[AI Agent Alert - Missed Call / Urgent Inquiry]: I tried calling Kamesh but he was busy. Please call me back at 9876543210 regarding an AI Developer role",
+    "timestamp": "2026-10-20T07:51:42.258Z",
+    "status": "unread",
+    "source": "ai_agent"
+  },
+  {
+    "id": "msg-1792482678121",
+    "name": "Sundar Pichai",
+    "email": "sundar@google.com",
+    "projectType": "AI Agent / ML Project",
+    "message": "Hi Kamesh, reviewed your GoJobSync platform and MCA work. Very strong delivery.",
+    "phone": "+1 650 253 0000",
+    "timestamp": "2026-10-20T07:51:18.121Z",
+    "status": "unread",
+    "source": "contact_form"
+  },
+  {
+    "id": "ai-lead-1792482462020",
+    "name": "Urgent Caller",
+    "email": "Captured via AI Agent",
+    "phone": " 6383123242",
+    "projectType": "Urgent Call-Back Request",
+    "message": "[AI Agent Alert - Missed Call / Urgent Inquiry]: Urgent callback request for phone number: 6383123242",
+    "timestamp": "2026-10-20T07:47:42.020Z",
+    "status": "unread",
+    "source": "ai_agent"
+  },
+  {
+    "id": "ai-lead-1792482435597",
+    "name": "Urgent Caller",
+    "email": "Captured via AI Agent",
+    "phone": "Can Kamesh call me back?",
+    "projectType": "Urgent Call-Back Request",
+    "message": "[AI Agent Alert - Missed Call / Urgent Inquiry]: Can Kamesh call me back?",
+    "timestamp": "2026-10-20T07:47:15.597Z",
+    "status": "unread",
+    "source": "ai_agent"
+  },
+  {
+    "id": "msg-demo-1",
+    "name": "Alex Morgan",
+    "email": "alex.morgan@techrecruiters.com",
+    "projectType": "Full-Time Role",
+    "message": "Hi Kamesh, we came across GoJobSync and were very impressed that you built the entire platform solo from database schema to AWS deployment. We'd love to interview you for an AI Application Developer role.",
+    "phone": "+91 98765 43210",
+    "timestamp": "2026-10-20T10:15:00.000Z",
+    "status": "unread",
+    "source": "contact_form"
+  }
+]

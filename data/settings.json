@@ -1,0 +1,11 @@
+{
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "secure": true,
+    "user": "mrkamesh8@gmail.com",
+    "pass": "",
+    "receiverEmail": "mrkamesh8@gmail.com",
+    "isConfigured": true
+  }
+}
